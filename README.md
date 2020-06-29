@@ -2,17 +2,17 @@
 Heap &amp; BST basic tasks:
 
 * Make a set of maximums for real numbers (double type) using table. The heap should support the following functions:
-    insert: insert an item into the pile
-    deleteMax: delete maximum item
-    max: maximum item return
+    insert: insert an item into the pile,
+    deleteMax: delete maximum item,
+    max: maximum item return &
     destroy: heap destruction, deletion of all elements of the heap.
 
 * Also implement a BST for real numbers using pointers. The tree should support the following functions:
-    insert: enter an item in the tree
-    search: search for an item in the tree
-    deleteMax: delete maximum item
-    max: maximum item return
-    rotate left / right: left / right rotation
+    insert: enter an item in the tree,
+    search: search for an item in the tree,
+    deleteMax: delete maximum item,
+    max: maximum item return,
+    rotate left / right: left / right rotation &
     destroy: tree destruction, deletion of all tree elements.
 
 
